@@ -1,0 +1,12 @@
+{
+    "thresholds": {
+        "cpu_usage": 80,
+        "ram_usage": 75,
+        "disk_usage_percent": 85
+    },
+    "email": {
+        "sender": "ransiwalsuryansh@gmail.com",
+        "receiver": "ransiwalsuryansh@gmail.com",
+        "password": ""
+    }
+}
